@@ -7,7 +7,7 @@ ub = [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; %upper bound
 global nfun;
 nfun = 0;
 global j;
-j = 1;
+j = 2;
 global delx;
 delx = 1e-6;
 
